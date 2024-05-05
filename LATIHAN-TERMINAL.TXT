@@ -1,0 +1,11 @@
+- ls (LIST) untuk menampilkan suatu file atau folder.
+
+- clear untuk menghapus apa yang di tampilkan.
+
+- pwd (PRINT WORKING DIRECTORY) untuk menampilkan path atau lokasi file atau folder yang sedang kita gunakan.
+
+- cd (CHANGE DIRECTORY) untuk berpindah tempat dari suatu file ke file yang ingin di tuju, cara pengetikan ==> cd namafile/namafile
+
+- cd .. untuk kembali ke file sebelumnya
+
+- cd ~ untuk kembali ke home ketika sudah masuk terlalu jauh ke dalam file/folder
