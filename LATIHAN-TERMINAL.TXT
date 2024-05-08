@@ -9,3 +9,5 @@
 - cd .. untuk kembali ke file sebelumnya
 
 - cd ~ untuk kembali ke home ketika sudah masuk terlalu jauh ke dalam file/folder
+
+- mkdir (MAKE DIRECTORY) untuk membuat folder baru, dan ada beberapa hal yang harus menggunakan \ sebagai spasi di dalam nama folder
